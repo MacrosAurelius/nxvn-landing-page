@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 .container{
@@ -22,3 +22,15 @@
     justify-content: center;
     align-items: center;
 } */
+
+.NLTS{
+    display: flex;
+    border: #ff0000;
+    border-radius: 50px;
+}
+
+.placeholder{
+    display: block;
+    object-position: 50%;
+    object-fit: cover;
+}
